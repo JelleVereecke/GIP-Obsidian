@@ -9,7 +9,7 @@
 - TI UniFlasher
 - C
 - P2P wifi
-- Bluetooth
+- SPI/I²C
 
 ## Links
 - [TI product page](https://www.ti.com/product/CC3220MOD)
