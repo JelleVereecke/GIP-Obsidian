@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"2fc991d0fd878152","x":-112,"y":-157,"width":292,"height":177,"type":"text","text":"power switching\n\nhttps://www.analog.com/en/resources/design-notes/switching-between-battery-and-external-power-sources.html"}
+	],
+	"edges":[]
+}
