@@ -1,4 +1,4 @@
-#hardware #wireless #wifi #bluetooth #p2p #microcontroller #link
+#hardware #wireless/WiFi
 
 ## Texas Instruments SoC
 - SimpleLink CC32xx SDK
