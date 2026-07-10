@@ -1,4 +1,4 @@
-#hardware #wireless/WiFi
+#hardware/MCU #wireless/WiFi #links/ProductPage #links/DataSheet 
 
 ## Texas Instruments SoC
 - SimpleLink CC32xx SDK
