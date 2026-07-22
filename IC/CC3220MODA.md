@@ -19,7 +19,7 @@
 ## Use
 - Brain
 - Command [[VS1053b]]
-- Command [[CC2546C]]
+- Command [[CC2546C (NO! use ATWIN or RS9116)]]
 - SD management
 - WiFi management
 - File upload management
