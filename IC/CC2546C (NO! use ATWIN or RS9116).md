@@ -15,4 +15,4 @@
 ## Use
 - Bluetooth manager
 - Send events to [[CC3220MODA]]
-- Send audio data to [[VS1053b]]
+- Send audio data to [[VS1073]]
